@@ -8,6 +8,6 @@ For programming languages I mostly use Rust and C, but I also play around with o
 
 oh, and i use arch btw 
 
-[Zinix]: https://github.com/projectzerodev/zinix
+[Zinix]: https://github.com/zinix-org/zinix
 [video games]: https://sukus.net/games/coding-pirates-gamejam-2025/zombie-apocalypse/
 [DDNS service]: https://github.com/ViktorPopp/cloudflare-ddns
