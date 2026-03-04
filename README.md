@@ -10,4 +10,4 @@ oh, and i use arch btw
 
 [Zinix]: https://github.com/zinix-org/zinix
 [video games]: https://sukus.net/games/coding-pirates-gamejam-2025/zombie-apocalypse/
-[DDNS service]: https://github.com/ViktorPopp/cloudflare-ddns
+[DDNS service]: https://github.com/zinix-org/dragon-dns
