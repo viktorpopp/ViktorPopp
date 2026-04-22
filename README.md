@@ -8,6 +8,6 @@ For programming languages I mostly use Rust and C, but I also play around with o
 
 oh, and i use bluefin btw 
 
-[Zinix]: https://github.com/zinix-org/zinix
+[Zinix]: https://github.com/zinix-org/
 [video games]: https://sukus.net/games/coding-pirates-gamejam-2025/zombie-apocalypse/
-[DDNS service]: https://github.com/zinix-org/dragon-dns
+[DDNS service]: https://github.com/zinix-org/dragon-dns/
