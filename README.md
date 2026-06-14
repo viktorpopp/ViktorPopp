@@ -1,6 +1,6 @@
 ### Hello
 
-I am a Danish hobbyist developer. My primary project are [Zinix], an open-source operating system.
+I am a Danish hobbyist developer. My primary project is [Zinix], an open-source operating system.
 
 I primarily do systems development but occasionally I also create [video games] and small utilities such as my [DDNS service]. I also like playing piano, doing puzzles and solving Rubik's cubes. My personal best is 31.6 seconds.
 
