@@ -1,11 +1,23 @@
-### Hello
+Hello :3
 
-I am a Danish hobbyist developer. My primary project is [Zinix], an open-source operating system.
+I'm Viktor, a hobbyist software developer from Denmark.
 
-I primarily do systems development but occasionally I also create [video games] and small utilities such as my [DDNS service]. I also like playing piano, doing puzzles and solving Rubik's cubes. My personal best is 31.6 seconds.
+About me:
 
-For programming languages I mostly use Rust, C and C++, but I also play around with other technologies such as Typescript and C#.
+* I prefer statically typed languages such as Rust, C++ and Typescript
+* mrow :3
+* I am still a beginner programmer
+* Speedcubing is fire
+* What is grass again?
+* I use Fedora KDE
 
-[Zinix]: https://github.com/zinix-org/
-[video games]: https://sukus.net/games/coding-pirates-gamejam-2025/zombie-apocalypse/
-[DDNS service]: https://github.com/zinix-org/dragon-dns/
+My Projects:
+
+* [Dragon DNS](https://github.com/viktorpopp/dragon-dns) [ s ] Self-hosted DDNS configurable via the Cloudflare Dashboard
+* [Rusty Chat](https://github.com/viktorpopp/rusty-chat) [ uf ] Minimal peer-to-peer E2E encrypted chat application
+
+*f - finished, uf - unfinished, m - mature, s - stable*
+
+![ Blåhaj go spinny is gone :c ](https://media1.tenor.com/m/h6T7YUwIn5UAAAAd/blahaj-go-spinny-blahaj.gif)
+
+<sub>meow meow mrrp mrow meow mrrrp \>w\<</sub>
