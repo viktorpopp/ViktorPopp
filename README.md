@@ -25,6 +25,7 @@ Cool people:
 * [NotNekodev](https://github.com/NotNekodev)
 * [Valca Laurinyev](https://github.com/laurinyev)
 * [Mathewnd](https://github.com/Mathewnd/)
+* [STier](https://github.com/stierprogrammer)
 
 Cool projects:
 
